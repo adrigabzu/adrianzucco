@@ -1,6 +1,6 @@
 +++
-title = "Welcome"
-type = "about"
+title = "Home"
+type = "blog"
 
 +++
 # Welcome to my personal website
