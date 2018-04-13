@@ -1,6 +1,6 @@
 +++
-title = "About me"
-date = "2018-04-13"
+date = "2018-04-13T00:00:00Z"
 netlify = true
-+++
+title = "About me"
 
++++
