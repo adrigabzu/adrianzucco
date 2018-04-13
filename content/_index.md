@@ -1,6 +1,7 @@
 +++
 title = "Home"
-type = "blog"
-
+type = "post"
+netlify = true
 +++
+
 # Welcome to my personal website
