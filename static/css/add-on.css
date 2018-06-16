@@ -4,3 +4,72 @@
   is an official part of the theme (ex. Pull Requests) should be included in main.css
   within the formating given.
 */
+
+body {
+    background: #EFEFEF;
+    color: #373737
+}
+
+#header {
+    background-color: #373737;
+    color: #ffffff !important;
+    /* border-left: solid 1px rgb(255, 255, 255); */
+}
+
+#header .links ul li a {
+    border-bottom: 0;
+    font-family: "Raleway", Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+}
+
+a {
+    color: #000000
+}
+
+a:hover {
+    border-bottom-color: transparent;
+    color: #F53240 !important;
+}
+
+a:hover:before {
+    color: #F53240 !important;
+}
+
+strong,
+b {
+    color: #333333;
+    font-weight: 700;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #373737;
+    font-family: "Raleway", Helvetica, sans-serif;
+    font-weight: 800;
+    letter-spacing: 0.25em;
+    line-height: 1.65;
+    margin: 0 0 1em 0;
+    text-transform: uppercase;
+}
+
+
+/* Link in the left right corner */
+
+h1 a {
+    color: #ffffff !important
+}
+
+#header #search input {
+    color: #ffffff !important
+}
+
+.fa-search:before {
+    color: #ffffff !important;
+}

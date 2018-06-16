@@ -9,11 +9,11 @@ pluralizeListTitles = false
 preserveTaxonomyNames = true
 theme = "hugo-future-imperfect"
 title = "Adrian Zucco - Bioinformatics and AI"
-[[menu.main]]
-identifier = "fa fa-envelope-o"
-name = "Contact"
-url = "/contact/"
-weight = 4
+#[[menu.main]]
+#identifier = "fa fa-envelope-o"
+#name = "Contact"
+#url = "/contact/"
+#weight = 4
 [[menu.main]]
 identifier = "fa fa-newspaper-o"
 name = "Blog"
@@ -46,8 +46,8 @@ loadfavicon = false
 mathjaxcdn = "//cdn.bootcss.com"
 mathjaxversion = "2.7.1"
 navbartitle = "Adrian Zucco"
-rssappearatbottom = true
-rssappearattop = true
+rssappearatbottom = false
+rssappearattop = false
 showsidebarcategories = true
 socialappearatbottom = true
 socialappearattop = true
@@ -56,13 +56,13 @@ socialshareemail = true
 socialsharefacebook = true
 socialsharegoogleplus = true
 socialsharelinkedin = true
-socialsharepinterest = true
+socialsharepinterest = false
 socialsharereddit = true
 socialsharestumbleupon = true
 socialsharetwitter = true
 viewmorepostlink = "/blog/"
 [params.intro]
-about = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+about = "Technologically augmented <i>Homo sapiens</i>. I'm passionate about Science, AI and Phylosophy. Investigating ways to democratize and interpret AI for healthcare as a PhD student."
 header = "Adrian Zucco"
 paragraph = "Bioinformatics and Machine Learning"
 [params.intro.pic]

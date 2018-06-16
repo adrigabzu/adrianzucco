@@ -1,7 +1,9 @@
 +++
+date = "2018-04-13T00:00:00Z"
 netlify = true
-title = "Home"
-type = "post"
+title = "Hey there!"
+type ="about"
 
 +++
-# Welcome to my personal website
+
+Page under construction...
