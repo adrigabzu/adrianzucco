@@ -63,7 +63,7 @@ paragraph = "Interpretable Machine Learning and Healthcare"
 [params.intro.pic]
 alt = "AGZ"
 circle = true
-imperfect = true
+imperfect = false
 src = "/img/main/me.jpg"
 width = "150"
 [params.postamount]
