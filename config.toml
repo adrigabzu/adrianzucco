@@ -65,7 +65,7 @@ alt = "AGZ"
 circle = true
 imperfect = true
 src = "/img/main/me.jpg"
-width = ""
+width = "150"
 [params.postamount]
 sidebar = 5
 [params.staticman]
