@@ -62,7 +62,7 @@ header = "Adrian Zucco"
 paragraph = "Interpretable Machine Learning and Healthcare"
 [params.intro.pic]
 alt = "AGZ"
-circle = false
+circle = true
 imperfect = true
 src = "/img/main/me.jpg"
 width = ""
