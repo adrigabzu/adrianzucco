@@ -1,4 +1,4 @@
-baseurl = "/about/"
+baseurl = "/"
 canonifyURLs = true
 disqusShortname = "shortname"
 enableRobotsTXT = true
